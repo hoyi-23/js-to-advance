@@ -1,4 +1,4 @@
-# js-to-advance
+# All About Javascript
 
 ---
 
